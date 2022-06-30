@@ -1,0 +1,124 @@
+body{
+font-family: 'Barlow', sans-serif;
+font-family: 'Roboto', sans-serif;
+min-height: 100vh;
+}
+
+.container {
+min-height: calc(100vh - 100px);
+}
+
+/***navbar**/
+.navi-item{
+letter-spacing:.2em;
+font-size:14px;
+text-transformation:uppercase;
+}
+
+.dropdown-item{
+letter-spacing:.2em;
+font-size:14px;
+text-transformation;uppercase;
+
+}
+.my_footer{
+background-color:#74990e;
+height:40px;
+/*margin-top:40px;*/
+
+}
+.ft_nxt{
+
+}
+
+.my_footer p{
+padding-top:10px;
+font-size:14px;
+
+}
+
+/***category***/
+.my_row_class{
+padding-top:15px;
+}
+.my_row_class .mx_auto{
+color:#212529;
+font-size:12px;
+}
+.my_image{
+width:100%;
+height:auto;
+}
+.my_title{
+font-size:16px;
+text-transformation:uppercase;
+letter-spacing:.2em;
+
+}
+.my_image_padding{
+padding:5px;
+}
+
+/*** category product ***/
+.my_bottom_marg{
+margin-bottom:20px;
+}
+.card-body h4
+{
+font-size:14px;
+text_transformation:uppercase;
+letter-spacing:.2em;
+}
+
+
+.card-img-top {
+    width: 100%;
+    height: 20vw;
+    object-fit: cover;
+}
+/**** product ***/
+.my_row_pdt{
+padding-top:15px;
+padding-bottom:20px;
+}
+.my_row_pdt .mx_auto{
+color:#000;
+font-size:12px;
+text-decoration:none;
+}
+.my_pdt_title{
+font-size:16;
+text_transformation:uppercase;
+letter-spacing:.1em;
+padding-top:15px;
+}
+.my_pdt_text{
+padding-right:20px;
+}
+
+.my_search_text{
+padding-top:20px;
+}
+/**cart**/
+.my_custom_table{
+min-width:400px;
+font-size:14px;
+}
+.my_custm_thead{
+font-weight:normal;
+text_transformation:uppercase;
+letter-spacing:.2em;
+background-color:#067899;
+}
+.custom_a{
+text-decoration:none;
+}
+.custom_icon{
+text-decoration:none;
+color:#868e96 !important;
+
+}
+.my_custom_button{
+margin-top:5px;
+
+}
